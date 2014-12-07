@@ -1,0 +1,7 @@
+# git ignore file
+[Oo]bj/
+[Bb]in/
+*.dll
+*.exe
+*.pdb
+*.suo
