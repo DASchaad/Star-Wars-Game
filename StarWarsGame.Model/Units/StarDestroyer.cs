@@ -5,7 +5,7 @@ using System.Text;
 
 namespace StarWarsGame.Model.Units
 {
-	class StarDestroyer : Unit
+	public class StarDestroyer : Unit
 	{
 	}
 }
